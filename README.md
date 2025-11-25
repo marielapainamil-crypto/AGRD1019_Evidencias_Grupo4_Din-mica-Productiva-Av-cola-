@@ -14,9 +14,9 @@ evidencia_analisis_produccion_huevos/
 │   │
 │   └── 📁 figuras/
 │       ├── ![Evaluación anual con intervalos de confianza 95%](https://github.com/user-attachments/assets/3b969b99-80f7-4edd-88ff-f136feda1b1a)
-│       ├── productividad_por_tipo.png
-│       ├── comparativa_anual.png
-│       ├── tendencia_gallinas.png
-│       └── estacionalidad_produccion.png
+│       ├── ![Comparación de Productividad](https://github.com/user-attachments/assets/f551357c-77f5-410f-997e-ba01e2fb4131)
+│       ├── ![Productividad Promedio por año](https://github.com/user-attachments/assets/dae7c266-9501-477e-95e5-93b6deeab453)
+│       ├── ![Productividad Promedio por año](https://github.com/user-attachments/assets/ccca5c37-1958-46b2-9ade-8d8187584879)
+│     
 │
 └── 📄 [Documento Word en línea](https://docs.google.com/document/d/1XV2VTeWJeMfISkHJ407Xn_ApPHZuxh9qWWhrTf6jXP8/edit?usp=sharing)
