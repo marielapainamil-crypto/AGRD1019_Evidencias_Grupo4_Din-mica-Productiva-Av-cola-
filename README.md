@@ -2,7 +2,7 @@
 evidencia_analisis_produccion_huevos/
 │
 ├── 📊 1_DATOS/
-│   └── [Documento Word en línea](https://docs.google.com/spreadsheets/d/1ReK-xgUQakWLWhysU-1PgxBsfd8exCj0gSyWM8EJYhE/edit?usp=sharing)
+│   └── [Documento Excel en línea](https://docs.google.com/spreadsheets/d/1ReK-xgUQakWLWhysU-1PgxBsfd8exCj0gSyWM8EJYhE/edit?usp=sharing)
 │
 ├── 📜 2_SCRIPTS/
 │   └── analisis_produccion_huevos.R
@@ -18,3 +18,6 @@ evidencia_analisis_produccion_huevos/
 │     
 │
 └── 📄 README.md [Documento Word en línea](https://docs.google.com/document/d/1XV2VTeWJeMfISkHJ407Xn_ApPHZuxh9qWWhrTf6jXP8/edit?usp=sharing)
+[Acceso directo al README de producción de huevos](https://github.com/fernandasotocu-hue/Producci-n-de-huevos-README/blob/36e358e8f86836bd7d05bbcab054133e2d4ae242/README.md)
+
+
