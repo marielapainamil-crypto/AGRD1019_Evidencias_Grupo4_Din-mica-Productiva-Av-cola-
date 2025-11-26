@@ -17,4 +17,4 @@ evidencia_analisis_produccion_huevos/
 │       ├── ![Productividad Promedio por año](https://github.com/user-attachments/assets/ccca5c37-1958-46b2-9ade-8d8187584879)
 │     
 │
-└── 📄 README.md [Documento Word en línea](https://docs.google.com/document/d/1XV2VTeWJeMfISkHJ407Xn_ApPHZuxh9qWWhrTf6jXP8/edit?usp=sharing)
+└── 📄[Acceso directo al README de producción de huevos](https://github.com/fernandasotocu-hue/Producci-n-de-huevos-README/blob/main/README.md)
