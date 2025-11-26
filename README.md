@@ -5,7 +5,8 @@ evidencia_analisis_produccion_huevos/
 │   └── [Documento Word en línea](https://docs.google.com/spreadsheets/d/1ReK-xgUQakWLWhysU-1PgxBsfd8exCj0gSyWM8EJYhE/edit?usp=sharing)
 │
 ├── 📜 2_SCRIPTS/
-│   └── analisis_produccion_huevos.R
+│   └── [script_huevos.txt](https://github.com/user-attachments/files/23761293/script_huevos.txt)
+
 │
 ├── 📈 3_RESULTADOS/
 │   ├── 📁 tablas/
